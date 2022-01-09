@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f85494be.css",
-    "main.js": "/static/js/main.d05eaa76.js",
-    "static/js/787.483b6212.chunk.js": "/static/js/787.483b6212.chunk.js",
-    "index.html": "/index.html",
-    "main.f85494be.css.map": "/static/css/main.f85494be.css.map",
-    "main.d05eaa76.js.map": "/static/js/main.d05eaa76.js.map",
-    "787.483b6212.chunk.js.map": "/static/js/787.483b6212.chunk.js.map"
+    "main.css": "/andrejrusik.github.io/react-social/static/css/main.f85494be.css",
+    "main.js": "/andrejrusik.github.io/react-social/static/js/main.b319bc23.js",
+    "static/js/787.483b6212.chunk.js": "/andrejrusik.github.io/react-social/static/js/787.483b6212.chunk.js",
+    "index.html": "/andrejrusik.github.io/react-social/index.html",
+    "main.f85494be.css.map": "/andrejrusik.github.io/react-social/static/css/main.f85494be.css.map",
+    "main.b319bc23.js.map": "/andrejrusik.github.io/react-social/static/js/main.b319bc23.js.map",
+    "787.483b6212.chunk.js.map": "/andrejrusik.github.io/react-social/static/js/787.483b6212.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f85494be.css",
-    "static/js/main.d05eaa76.js"
+    "static/js/main.b319bc23.js"
   ]
 }
