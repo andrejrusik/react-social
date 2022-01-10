@@ -1,0 +1,7 @@
+.content {
+  grid-area: c;
+  color: rgb(0, 0, 0);
+  background-color: rgb(219, 219, 219);
+}
+
+.me {background-color: yellowgreen;}

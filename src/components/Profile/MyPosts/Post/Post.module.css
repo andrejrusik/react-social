@@ -1,0 +1,13 @@
+.item {
+    padding: 20px;
+  color: blue;
+}
+.ava {
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.item p {
+  margin: 0;
+}
