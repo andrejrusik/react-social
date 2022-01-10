@@ -2,7 +2,7 @@
   "name": "react-social",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "andrejrusik.github.io/react-social/",
+  "homepage" : "https://andrejrusik.github.io/react-social/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
